@@ -1,3 +1,5 @@
+![college](https://github.com/AlavishPasunuri06/FullResponsiveWebsite/assets/142849206/c6ae296b-5ccc-4030-ab2d-41800e353d0c)
+
 # College Website Project
 
 Welcome to the College Website project! This repository showcases the development of a dynamic and informative website for a college. The website is designed to provide students, faculty, and visitors with essential information about the college, its programs, events, and more.
